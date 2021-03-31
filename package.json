@@ -1,0 +1,11 @@
+{
+  "name": "hosting-test",
+  "version": "1.0.0",
+  "description": "to learn hosting app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Moazzam Sayyed",
+  "license": "ISC"
+}
