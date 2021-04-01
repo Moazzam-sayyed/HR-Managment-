@@ -4,9 +4,14 @@
 }
 a
 {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 a:hover{
-    color: black;
+    color: white;
+    font-weight: bold;
+}
+footer{
+    text-align: center;
+    margin-top: 30%;
 }
